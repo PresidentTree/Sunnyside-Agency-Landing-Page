@@ -346,12 +346,6 @@ footer li:hover {
     margin-top: 0;
   }
 
-  .text-in {
-    width: 80%;
-    text-align: center;
-    padding: 3rem 0;
-  }
-
   section:nth-of-type(3) {
     flex-direction: column;
   }
@@ -371,11 +365,11 @@ footer li:hover {
   .text-on {
     width: 80%;
   }
-
-  text-in {
-    left: 50%;
-    bottom: 15%;
-    transform: translate(-50%, 15%);
+  
+  .text-in {
+    width: 80%;
+    text-align: center;
+    padding: 3rem 0;
   }
 
   section:nth-of-type(5) {
