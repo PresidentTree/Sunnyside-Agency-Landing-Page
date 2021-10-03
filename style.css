@@ -326,6 +326,7 @@ footer li:hover {
     top: 30%;
     transform: translate(-50%, -30%);
     text-align: center;
+    font-size: 2.75rem;
   }
 
   section:nth-of-type(1) > img {
